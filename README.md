@@ -1,5 +1,5 @@
 
-Streamlit App Link: https://ai---resume--analyzer-rsew2db9aocexanwqfd3sw.streamlit.app/
+ResumeIQ_Link: https://ai---resume--analyzer-rsew2db9aocexanwqfd3sw.streamlit.app/
 
 
 
