@@ -1,3 +1,10 @@
+
+Streamlit App Link: https://ai---resume--analyzer-rsew2db9aocexanwqfd3sw.streamlit.app/
+
+
+
+
+
 # AI_Resume_Analyzer
 An intelligent AI-powered Resume Analyzer that helps job seekers evaluate and improve their resumes by comparing them against a specific job description. The tool simulates how Applicant Tracking Systems (ATS) and recruiters assess resumes, providing actionable insights to increase the chances of getting shortlisted.
 
